@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TimePlanner" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- 快速新增用：透明背景 -->
+    <style name="Theme.TimePlanner.QuickAdd" parent="android:Theme.Translucent.NoTitleBar" />
+</resources>
